@@ -1,0 +1,16 @@
+
+img {
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    height: 600px;
+}
+.haha
+{
+  text-align: center;
+  font-family:fantasy;
+}
+body {
+  background-color:rgb(128,128,128) ;
+}
